@@ -1,2 +1,2 @@
 # lections_ML
-section course for MSU students
+lection course for MSU students
